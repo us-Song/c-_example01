@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Employee.h"
-
+//긱사에서 테스트
 using namespace std;
 
 
@@ -87,6 +87,7 @@ bool Employee::isHired() const
 
 int main()
 {
+	cout << 1;
 
 	return 0;
 }
